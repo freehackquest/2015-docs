@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fhq_2015_diplom_hacker.svg"
+   inkscape:export-filename="fhq_2015_diplom_hacker.png"
+   inkscape:export-xdpi="128"
+   inkscape:export-ydpi="128">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5447">
+      <stop
+         style="stop-color:#a7deee;stop-opacity:1;"
+         offset="0"
+         id="stop5449" />
+      <stop
+         style="stop-color:#a7deee;stop-opacity:0;"
+         offset="1"
+         id="stop5451" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5425"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#a7deee;stop-opacity:1;"
+         offset="0"
+         id="stop5427" />
+      <stop
+         style="stop-color:#a7deee;stop-opacity:0;"
+         offset="1"
+         id="stop5429" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5389"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5391" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3947"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#a7deee;stop-opacity:1;"
+         offset="0"
+         id="stop3949" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient3786">
+      <stop
+         id="stop3788"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+      <stop
+         id="stop3790"
+         offset="1"
+         style="stop-color:#ffff00;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5447"
+       id="radialGradient5453"
+       cx="522.24884"
+       cy="578.42944"
+       fx="522.24884"
+       fy="578.42944"
+       r="456.58896"
+       gradientTransform="matrix(0.46460177,0.07364228,-0.0321075,0.12723105,307.39696,831.63876)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5447"
+       id="radialGradient5457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46460177,0.07364228,-0.0321075,0.12723105,17.889262,837.05716)"
+       cx="522.24884"
+       cy="578.42944"
+       fx="522.24884"
+       fy="578.42944"
+       r="456.58896" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5447"
+       id="radialGradient5490"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46460177,0.07634121,-0.0321075,0.13189396,600.21861,830.72883)"
+       cx="522.24884"
+       cy="578.42944"
+       fx="522.24884"
+       fy="578.42944"
+       r="456.58896" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#4393bd"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="887.35258"
+     inkscape:cy="285.85556"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1865"
+     inkscape:window-height="1056"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#00000f;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none"
+       id="rect3755"
+       width="1052.3048"
+       height="744.11243"
+       x="0.047045592"
+       y="308.23428"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#aaaaaf;stroke-width:7.75031232999999986;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none"
+       id="rect3757"
+       width="963.28705"
+       height="653.51697"
+       x="39.320564"
+       y="353.52029"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Monospace Bold"
+       x="524.05255"
+       y="670.31525"
+       id="text3925"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="524.05255"
+         y="670.31525"
+         id="tspan3929"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold" /><tspan
+         sodipodi:role="line"
+         x="524.05255"
+         y="720.31525"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan3946">hellman</tspan><tspan
+         sodipodi:role="line"
+         x="524.05255"
+         y="770.31525"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan3950">за взлом и нарушение правил</tspan><tspan
+         sodipodi:role="line"
+         x="524.05255"
+         y="820.31525"
+         style="font-size:40px;font-weight:bold;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;-inkscape-font-specification:Monospace Bold"
+         id="tspan3948" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="688.27252"
+       y="682.44562"
+       id="text3933"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92703941,1.0787028)"><tspan
+         sodipodi:role="line"
+         id="tspan3935"
+         x="688.27252"
+         y="682.44562"
+         style="font-size:40px;text-align:center;text-anchor:middle" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold Italic"
+       x="526.09436"
+       y="806.89502"
+       id="text3937"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="526.09436"
+         y="806.89502"
+         style="font-size:24px;font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;-inkscape-font-specification:Sans Bold Italic"
+         id="tspan4015">в системе соревнований</tspan><tspan
+         sodipodi:role="line"
+         x="526.09436"
+         y="836.89502"
+         style="font-size:24px;font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;-inkscape-font-specification:Sans Bold Italic"
+         id="tspan3862">по информационной безопасности</tspan><tspan
+         sodipodi:role="line"
+         x="526.09436"
+         y="866.89502"
+         style="font-size:24px;font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:#cbe8ec;fill-opacity:1;-inkscape-font-specification:Sans Bold Italic"
+         id="tspan3908" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="982.41028"
+       y="404.6409"
+       id="text3941"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3943"
+         x="982.41028"
+         y="404.6409"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold">Free</tspan><tspan
+         sodipodi:role="line"
+         x="982.41028"
+         y="454.6409"
+         id="tspan3164"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold">Hack</tspan><tspan
+         sodipodi:role="line"
+         x="982.41028"
+         y="504.6409"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+         id="tspan3942">Quest</tspan><tspan
+         sodipodi:role="line"
+         x="982.41028"
+         y="554.64087"
+         id="tspan3166"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#cbe8ec;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace Bold">2015</tspan></text>
+    <g
+       id="g3938"
+       transform="translate(6.0609182,-48.487322)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path3759"
+         d="m 523.57143,580.88632 82.14286,26.47555 0,-201.07112 -166.73803,0 -0.25254,201.24475 z"
+         style="fill:#cbe8ec;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path3791"
+         d="m 327.32143,498.25503 -95,0 11.52615,28.02181 -11.30216,28.40537 153.16886,-0.35714 z"
+         style="fill:#a7deee;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#a7deee;fill-opacity:1;stroke:none"
+         d="m 722.11078,497.87197 95,0 -11.52615,28.02181 11.30216,28.40537 -153.16886,-0.35714 z"
+         id="path3793"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         y="470.69995"
+         x="327.48376"
+         height="56.691093"
+         width="393.86053"
+         id="rect3765"
+         style="fill:#44aae1;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3771"
+         d="m 663.57143,527.36218 -0.35714,27.14285 58.57143,-27.14285 z"
+         style="fill:#44aae1;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3771-2"
+         d="m 385.52552,527.17709 0.35714,27.14285 -58.57143,-27.14285 z"
+         style="fill:#44aae1;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5484-0"
+       y="946.3775"
+       x="397.78564"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cbe8ec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="946.3775"
+         x="397.78564"
+         id="tspan5486-0"
+         sodipodi:role="line"
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold">Тренер команды Keva</tspan><tspan
+         y="976.3775"
+         x="397.78564"
+         sodipodi:role="line"
+         id="tspan5492-8"
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold">Гуляев А.И.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cbe8ec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="745.18414"
+       y="946.85718"
+       id="text5494-0"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+         sodipodi:role="line"
+         id="tspan5496-5"
+         x="745.18414"
+         y="946.85718">Организатор FHQ</tspan><tspan
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+         id="tspan5498-6"
+         sodipodi:role="line"
+         x="745.18414"
+         y="976.85718">Сопов Е.А.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5484-2-0"
+       y="946.88702"
+       x="66.850449"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cbe8ec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="946.88702"
+         x="66.850449"
+         id="tspan5486-4-4"
+         sodipodi:role="line"
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold">к.т.н, доцент ТУСУРа</tspan><tspan
+         y="976.88702"
+         x="66.850449"
+         sodipodi:role="line"
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+         id="tspan3899-0">Конев А.А.</tspan><tspan
+         y="1006.887"
+         x="66.850449"
+         sodipodi:role="line"
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold"
+         id="tspan3897-1" /><tspan
+         y="1036.8871"
+         x="66.850449"
+         sodipodi:role="line"
+         id="tspan5492-1-5"
+         style="font-size:24px;font-weight:bold;fill:#cbe8ec;fill-opacity:1;stroke:none;-inkscape-font-specification:Sans Bold" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="474.04568"
+       y="457.86472"
+       id="text3767"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3769"
+         x="474.04568"
+         y="457.86472"
+         style="font-size:24px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">ХАКЕРУ</tspan></text>
+  </g>
+</svg>

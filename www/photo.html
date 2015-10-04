@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="images/style.css" type="text/css" />
+<link rel="stylesheet" href="css/gallery.css" type="text/css" />
+
+<script>
+	
+	/*function theRotator() {
+		$('div#rotator div').css({opacity: 0.0});
+		$('div#rotator div:first').css({opacity: 1.0});
+		setInterval('rotate()',2000);
+	}
+	function rotate() {
+		var current = ($('div#rotator div.show')? $('div#rotator div.show') : $('div#rotator div:first'));
+		var next = ((current.next().length) ? ((current.next().hasClass('show')) ? $('div#rotator div:first') :current.next()) : $('div#rotator div:first'));
+		next.css({opacity: 0.0}) .addClass('show') .animate({opacity: 1.0}, 1000); current.animate({opacity: 0.0}, 1000) .removeClass('show');
+	};
+	$(document).ready(function() { theRotator(); });*/
+
+
+	var slideimages = new Array() // create new array to preload images
+	slideimages = [
+		"photo/mrdeadmanandmihandel.jpg",
+		"photo/paulinho.jpg",
+		"photo/rorschach.jpg",
+		"photo/unbearab1e.jpg",
+		"photo/pr3ttypin3appL3.jpg",
+		"photo/AfftaR.jpg",
+		"photo/yitso.jpg",
+		"photo/corteso.jpg",
+		"photo/rolex01.jpg",
+		"photo/rahimyanov.jpg",
+		"photo/tarcel22.jpg",
+		"photo/leet.jpg",
+		"photo/antichat.jpg",
+		"photo/stylemistake.jpg",
+		"photo/jannot.jpg",
+		"photo/nerox86.jpg",
+		"photo/BasarDies.jpg",
+		"photo/maria-tyan.jpg",
+		"photo/hd_alexdandy.jpg",
+		"photo/ace.jpg",
+		"photo/bondareva.jpg",
+		"photo/madparker.jpg",
+		"photo/uranus.jpg",
+	];
+
+	var step = -1;
+	var lockClick = false;
+	function nextPhoto() {
+		if (lockClick == true)
+			return;
+		var newstep = step + 1;
+		if (newstep >= slideimages.length) {
+			newstep = 0;
+		}
+		step = newstep;
+		document.getElementById('parent_img').style.opacity = "0.0";
+		lockClick = true;
+		window.setTimeout("changePhoto();", 500);
+	}
+	
+	function prevPhoto() {
+		if (lockClick == true)
+			return;
+		var newstep = step - 1;
+		if (newstep < 0) {
+			newstep = slideimages.length - 1;
+		}
+		step = newstep;
+		document.getElementById('parent_img').style.opacity = "0.0";
+		lockClick = true;
+		window.setTimeout("changePhoto();", 500);
+	}
+
+	function changePhoto() {
+		document.getElementById('gallery_img').src = "";
+		document.getElementById('gallery_img').src = slideimages[step]
+		document.getElementById('current').innerHTML = (step+1) + ' / ' + slideimages.length;
+		document.getElementById('parent_img').style.opacity = "1.0";
+		window.setTimeout("unlockClick();", 500);
+	}
+	
+	function unlockClick() {
+		lockClick = false;
+	}
+</script>
+
+<title>FHQ2015</title></head>
+<body onload="nextPhoto();">
+<div id="wrap">
+	<div id="header">
+	<h1>Free-Hack-Quest 2015</h1>
+	<h2 id="header-desc">Соревнования по информационной безопастности</h2>
+	</div>		
+<div id="nav-bar">
+	<div id="nav-left">
+		<ul>
+      		<li id="selected"><a href="index.html">Главная</a></li>
+      		<li><a href="news.html">Новости</a></li>
+     		<li><a href="reviews.html">Отзывы</a></li>
+     		<li><a href="feedback.html">Обратная связь</a></li>
+      		<li><a href="photo.html">Фотографии</a></li>
+      		<li><a href="writeups.html">Разбор заданий</a></li>
+			<li><a href="org.html">Организаторы</a></li>
+			<li><a href="results.html">Результаты</a></li>
+   	 	</ul>
+    <div id="nav-right"></div></div></div> <!--Important-->
+
+<div id="content-top"></div> <!--Important-->
+	<div id="content-wrap">
+		<div id="sidebar-wrap">
+			<center>
+				<img src="images/logo.png" height="250px"/>
+			</center>
+		</div> <!-- Sidebar Wrap End -->
+
+		<div id="content">
+			<h1>Фотографии участников</h1>
+			<center>
+				<!-- http://www.javascriptkit.com/howto/show2.shtml -->
+				<a href="javascript:void(0);" onclick="prevPhoto();"> << prev </a> | 
+				<font id="current" >0/</font> | 
+				<a href="javascript:void(0);" onclick="nextPhoto();">next >> </a><br>
+				<div style="width: 100%; height=100%" id="parent_img">
+					<img src="photo/paulinho.jpg" id="gallery_img" width=500px/>
+				</div>
+			</center>
+			<p align="right" class="post-footer"><span class="date">18 сентября, 2015</span></p>
+			<p></p>
+		</div> <!-- Content End -->
+		
+<div id="content-bottom"></div> <!-- Important -->
+</div> <!-- Content Wrap End -->
+<div id="footer-top">
+	<div id="footer-left">
+    <div id="footer-right">
+    </div></div>
+</div>
+<div id="footer">
+	<!-- Please don't remove the link to the author's page -->
+	<div align="center">&copy; 2015 <strong>FHQ2015</strong> | Valid <a href="http://validator.w3.org/check?uri=referer">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | Design by: <a href="http://www.themebin.com/">ThemeBin</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#">Home</a> | Sitemap
+<div style="display:none;"><a href="http://free-templates.ru">шаблоны сайтов</a></div>
+    </div>
+</div> <!-- Footer End -->
+</div> <!--Wrap End-->
+<!-- flag is didnotforgotreadingcomments -->
+</body>
+</html>
